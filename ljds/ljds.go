@@ -1,6 +1,6 @@
 package ljds
 
-type LJs []Lj
+type LJs []LJ
 
 type LJ struct {
 	Time    string
